@@ -87,7 +87,7 @@ if __name__ == "__main__":
     elastic_host = config("ELASTIC_HOST")
     elastic_port = int(config("ELASTIC_PORT"))
     index_name = config("INDEX_NAME")
-    re_index = config("RE_INDEX")
+    re_index = config("REMOVE_OLD_INDEX")
     batch_size = config("BATCH_SIZE")
 
     print("*" * 50)
