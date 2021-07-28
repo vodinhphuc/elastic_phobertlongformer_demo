@@ -1,6 +1,6 @@
 # Index documents by PhoBert Longformer model
 
-## Instroduction
+## Introduction
 
 This demo use PhoBertLongFormer to embedding documents to index them in elasticsearch. Than use elasticsearch cosine similarity score to find similar documents with input.
 
