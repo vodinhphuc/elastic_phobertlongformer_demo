@@ -1,3 +1,4 @@
+#! python
 """
 This file create elasticsearch index of document in /data
 using phobertlong model

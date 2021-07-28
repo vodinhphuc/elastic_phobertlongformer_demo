@@ -1,3 +1,4 @@
+#! streamlit run
 """
 This file run an web app demo for calculate cosin similary
 using document's embedding vector
